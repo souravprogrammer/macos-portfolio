@@ -35,12 +35,28 @@ const bear: BearData[] = [
     icon: "i-octicon:repo",
     md: [
       {
+        id: "AnimeFlix",
+        title: "Anime Flix",
+        file: "markdown/Anime-flx.md",
+        icon: "i-heroicons-solid:fire",
+        excerpt: "watch high quality show online without any ads...",
+        link: "https://github.com/souravprogrammer/dogeSan"
+      },
+      {
+        id: "WebShare",
+        title: "WebShare",
+        file: "https://raw.githubusercontent.com/souravprogrammer/webShare/master/README.md",
+        icon: "i-heroicons-solid:fire",
+        excerpt:
+          "webShare is a simple file sharing web application built using TypeScript...",
+        link: "https://github.com/souravprogrammer/dogeSan"
+      },
+      {
         id: "dogeSan",
         title: "DogeSan",
         file: "https://raw.githubusercontent.com/souravprogrammer/dogeSan/master/README.md",
         icon: "i-heroicons-solid:fire",
-        excerpt:
-          "Doge San is a small app that allows you to watch your favorite anime shows on your android device...",
+        excerpt: "Doge San is a small app that allows you to watch your favorite...",
         link: "https://github.com/souravprogrammer/dogeSan"
       }
     ]
